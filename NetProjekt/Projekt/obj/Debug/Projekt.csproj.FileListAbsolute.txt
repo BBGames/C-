@@ -1,0 +1,14 @@
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\_Net\NetProjekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\_Net\NetProjekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\_Net\NetProjekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\_Net\NetProjekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\_Net\NetProjekt\Projekt\obj\Debug\MainWindow.g.cs
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\_Net\NetProjekt\Projekt\obj\Debug\App.g.cs
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\_Net\NetProjekt\Projekt\obj\Debug\Projekt_MarkupCompile.cache
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\_Net\NetProjekt\Projekt\obj\Debug\Projekt_MarkupCompile.lref
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\_Net\NetProjekt\Projekt\obj\Debug\MainWindow.baml
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\_Net\NetProjekt\Projekt\obj\Debug\Projekt.g.resources
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\_Net\NetProjekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\_Net\NetProjekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\_Net\NetProjekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\_Net\NetProjekt\Projekt\obj\Debug\Projekt.pdb
